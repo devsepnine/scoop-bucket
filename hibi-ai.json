@@ -10,7 +10,9 @@
             "extract_dir": "hibi-ai-0.1.0-windows"
         }
     },
-    "bin": "hibi.exe",
+    "bin": [
+        ["hibi.exe", "hibi"]
+    ],
     "checkver": {
         "github": "https://github.com/devsepnine/hibi_ai"
     },
