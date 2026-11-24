@@ -1,6 +1,6 @@
 # Scoop Bucket for hibi-ai
 
-Scoop bucket for [hibi-ai](https://github.com/devsepnine/hibi_ai) - TUI installer for Claude Code and Codex CLI configurations.
+Scoop bucket for [hibi-ai](https://github.com/devsepnine/hibi_ai), a graphical and terminal installer for Claude Code and Codex CLI configurations.
 
 ## Installation
 
@@ -24,9 +24,11 @@ After installation, run:
 hibi
 ```
 
+For the terminal interface, run `hibi --tui`.
+
 ## Packages
 
-- **hibi-ai** - TUI installer for Claude Code and Codex CLI configurations
+- **hibi-ai** installs Claude Code and Codex CLI configurations.
 
 ## Links
 
